@@ -1,0 +1,7 @@
+C:\Users\nmannilthodi\OneDrive - Microsoft\Documents\Lab\globalhackathon\verification\obj\Release\net6.0\PubTmp\Out\verification.exe
+C:\Users\nmannilthodi\OneDrive - Microsoft\Documents\Lab\globalhackathon\verification\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\nmannilthodi\OneDrive - Microsoft\Documents\Lab\globalhackathon\verification\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\nmannilthodi\OneDrive - Microsoft\Documents\Lab\globalhackathon\verification\obj\Release\net6.0\PubTmp\Out\verification.dll
+C:\Users\nmannilthodi\OneDrive - Microsoft\Documents\Lab\globalhackathon\verification\obj\Release\net6.0\PubTmp\Out\verification.deps.json
+C:\Users\nmannilthodi\OneDrive - Microsoft\Documents\Lab\globalhackathon\verification\obj\Release\net6.0\PubTmp\Out\verification.runtimeconfig.json
+C:\Users\nmannilthodi\OneDrive - Microsoft\Documents\Lab\globalhackathon\verification\obj\Release\net6.0\PubTmp\Out\verification.pdb

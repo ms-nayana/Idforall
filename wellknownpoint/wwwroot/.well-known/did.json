@@ -1,0 +1,34 @@
+{
+  "id": "did:web:contosovillage.contosonl.nl",
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    { "@base": "did:web:contosovillage.contosonl.nl" }
+  ],
+  "service": [
+    {
+      "id": "#linkeddomains",
+      "type": "LinkedDomains",
+      "serviceEndpoint": { "origins": [ "https://contosovillage.contosonl.nl/" ] }
+    },
+    {
+      "id": "#hub",
+      "type": "IdentityHub",
+      "serviceEndpoint": { "instances": [ "https://hub.did.msidentity.com/v1.0/65ac795a-8449-4b40-9d14-5b1d35ecd4bd" ] }
+    }
+  ],
+  "verificationMethod": [
+    {
+      "id": "#222e3f5a1f6b42a397e163d71a4e974fvcSigningKey-889d0",
+      "controller": "did:web:contosovillage.contosonl.nl",
+      "type": "EcdsaSecp256k1VerificationKey2019",
+      "publicKeyJwk": {
+        "crv": "secp256k1",
+        "kty": "EC",
+        "x": "icqtHNhRgxvBIq01_EU3AWJL7zHDIw2DuSUecBY5yt8",
+        "y": "GgLcAmSjBY4kY1BoX0aLdHMrFy7vrI0AFxcgP9Ex6Rc"
+      }
+    }
+  ],
+  "authentication": [ "#222e3f5a1f6b42a397e163d71a4e974fvcSigningKey-889d0" ],
+  "assertionMethod": [ "#222e3f5a1f6b42a397e163d71a4e974fvcSigningKey-889d0" ]
+}
